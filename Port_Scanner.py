@@ -138,3 +138,6 @@ try:
 except KeyboardInterrupt:
 	print "You pressed Ctrl+C. Exiting "		
 	sys.exit(1)
+
+# [Reference]
+##https://codingsec.net/2016/05/create-port-scanner-python/
